@@ -1,0 +1,210 @@
+.slide-3 {
+    // background-color: #9993c1;
+    background-image: url('../images/bg1.jpg');
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    .item-image {
+        width: 18rem;
+        height: 8rem;
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+        position: absolute;
+        top: 2rem;
+        left: 0;
+        right: 0;
+        margin: auto;
+        background-image: url('../images/logo1.png');
+    }
+    .item-text {
+        width: 18rem;
+        color: #f2f2f2;
+        font-size: 1.2rem;
+        font-weight: bold;
+        position: absolute;
+        top: 24rem;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .text1{
+        top: 4rem;
+        font-size: 1.6rem;
+    }
+    .text2{
+        top: 10rem;
+    }
+    .text3{
+        top: 15rem;
+    }
+    .text4{
+        top: 20rem;
+    }
+    .text5{
+        top: 25rem;
+    }
+}
+.slide-4{
+    background-image: url('../images/bg1.jpg');
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    .item-image1 {
+        width: 50%;
+        height: 8rem;
+        background-position: center;
+        background-size: 90% 90%;
+        background-repeat: no-repeat;
+        position: absolute;
+        top: 10rem;
+        left: 0;
+        // border: 1px solid #fff;
+        padding: 1rem;
+        box-sizing: border-box;
+        // right: 0;
+        // margin: auto;
+        background-image: url('../images/cheyidai7.jpg');
+    }
+    .item-image2 {
+        width: 50%;
+        height: 8rem;
+        background-position: center;
+        background-size: 90% 90%;
+        background-repeat: no-repeat;
+        position: absolute;
+        top: 10rem;
+        padding: 1rem;
+        // left: 0;
+        right: 0;
+        // margin: auto;
+        background-image: url('../images/cheyidai8.jpg');
+    }
+    .item-image3 {
+        width: 50%;
+        height: 8rem;
+        background-position: center;
+        background-size: 90% 90%;
+        background-repeat: no-repeat;
+        position: absolute;
+        top: 18rem;
+        left: 0;
+        // border: 1px solid #fff;
+        padding: 1rem;
+        box-sizing: border-box;
+        // right: 0;
+        // margin: auto;
+        background-image: url('../images/cheyidai2.jpg');
+    }
+    .item-image4 {
+        width: 50%;
+        height: 8rem;
+        background-position: center;
+        background-size: 90% 90%;
+        background-repeat: no-repeat;
+        position: absolute;
+        top: 18rem;
+        padding: 1rem;
+        // left: 0;
+        right: 0;
+        // margin: auto;
+        background-image: url('../images/cheyidai5.jpg');
+    }
+    .item-text {
+        width: 18rem;
+        color: #f2f2f2;
+        font-size: 1.6rem;
+        font-weight: bold;
+        position: absolute;
+        top: 4rem;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        text-align: center;
+    }
+}
+.slide-5{
+    background-image: url('../images/bg1.jpg');
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    .item-text {
+        width: 18rem;
+        color: #f2f2f2;
+        font-size: 1.6rem;
+        font-weight: bold;
+        position: absolute;
+        top: 4rem;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .item-image1 {
+        width: 18rem;
+        height: 8rem;
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+        position: absolute;
+        top: 8rem;
+        left: 0;
+        right: 0;
+        margin: auto;
+        background-image: url('../images/QR-Code.png');
+    }
+    .text1{
+        top: 20rem;
+        font-size: 1.2rem;
+    }
+    .text2{
+        top: 22rem;
+        font-size: 1.2rem;
+    }
+    .text3{
+        top: 16.5rem;
+        font-size: 0.8rem;
+    }
+    .text4{
+        top: 25rem;
+        font-size: 1.2rem;
+    }
+}
+.slide-6{
+    background-image: url('../images/bg1.jpg');
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    .item-text {
+        width: 18rem;
+        color: #f2f2f2;
+        font-size: 1.2rem;
+        font-weight: bold;
+        position: absolute;
+        top: 4rem;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .item-image {
+        width: 18rem;
+        height: 15rem;
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+        position: absolute;
+        top: 6rem;
+        left: 0;
+        right: 0;
+        margin: auto;
+        background-image: url('../images/cheyidai3.jpg');
+    }
+    .text1{
+        top: 3rem;
+        font-size: 1.6rem;
+    }
+    .text2{
+        top: 22rem;
+    }
+    .text3{
+        top: 26rem;
+    }
+}
