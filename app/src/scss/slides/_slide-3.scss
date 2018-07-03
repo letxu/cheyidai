@@ -1,6 +1,6 @@
 .slide-3 {
     // background-color: #9993c1;
-    background-image: url('../images/bg1.jpg');
+    background-image: url('../images/bg.png');
     background-size: 100% auto;
     background-repeat: no-repeat;
     .item-image {
@@ -18,8 +18,8 @@
     }
     .item-text {
         width: 18rem;
-        color: #f2f2f2;
-        font-size: 1.2rem;
+        color: #ebebeb;
+        font-size: 1rem;
         font-weight: bold;
         position: absolute;
         top: 24rem;
@@ -27,10 +27,14 @@
         right: 0;
         margin: 0 auto;
         text-align: center;
+        letter-spacing: .2rem;
+        line-height: 1.6rem;
     }
     .text1{
         top: 4rem;
-        font-size: 1.6rem;
+        font-size: 1.7rem;
+        color: #55bfc4;
+        letter-spacing: .5rem;
     }
     .text2{
         top: 10rem;
@@ -46,7 +50,7 @@
     }
 }
 .slide-4{
-    background-image: url('../images/bg1.jpg');
+    background-image: url('../images/bg.png');
     background-size: 100% auto;
     background-repeat: no-repeat;
     .item-image1 {
@@ -64,6 +68,42 @@
         // right: 0;
         // margin: auto;
         background-image: url('../images/cheyidai7.jpg');
+    }
+    .image1{
+        position: absolute;
+        top: 10rem;
+        left: 3%;
+        width: 45%;
+        height: 6.3rem;
+        border: 3px solid #fff;
+        box-sizing: border-box;
+    }
+    .image2{
+        position: absolute;
+        top: 10rem;
+        right: 3%;
+        width: 45%;
+        height: 6.3rem;
+        border: 3px solid #fff;
+        box-sizing: border-box;
+    }
+    .image3{
+        position: absolute;
+        top: 19rem;
+        left: 3%;
+        width: 45%;
+        height: 6.3rem;
+        border: 3px solid #fff;
+        box-sizing: border-box;
+    }
+    .image4{
+        position: absolute;
+        top: 19rem;
+        right: 3%;
+        width: 45%;
+        height: 6.3rem;
+        border: 3px solid #fff;
+        box-sizing: border-box;
     }
     .item-image2 {
         width: 50%;
@@ -120,16 +160,19 @@
         right: 0;
         margin: 0 auto;
         text-align: center;
+        font-size: 1.7rem;
+        color: #55bfc4;
+        letter-spacing: .5rem;
     }
 }
 .slide-5{
-    background-image: url('../images/bg1.jpg');
+    background-image: url('../images/bg.png');
     background-size: 100% auto;
     background-repeat: no-repeat;
     .item-text {
         width: 18rem;
         color: #f2f2f2;
-        font-size: 1.6rem;
+        font-size: 1rem;
         font-weight: bold;
         position: absolute;
         top: 4rem;
@@ -151,31 +194,43 @@
         margin: auto;
         background-image: url('../images/QR-Code.png');
     }
+    .image1{
+        position: absolute;
+        top: 8rem;
+        left: 25%;
+        width: 50%;
+        height: auto;
+        // border: 3px solid #fff;
+        box-sizing: border-box;
+    }
+    .text5{
+        top: 4rem;
+        font-size: 1.7rem;
+        color: #55bfc4;
+        letter-spacing: .5rem;
+    }
     .text1{
-        top: 20rem;
-        font-size: 1.2rem;
+        top: 22rem;
     }
     .text2{
         top: 22rem;
-        font-size: 1.2rem;
     }
     .text3{
-        top: 16.5rem;
+        top: 18.5rem;
         font-size: 0.8rem;
     }
     .text4{
-        top: 25rem;
-        font-size: 1.2rem;
+        top: 26rem;
     }
 }
 .slide-6{
-    background-image: url('../images/bg1.jpg');
+    background-image: url('../images/bg.png');
     background-size: 100% auto;
     background-repeat: no-repeat;
     .item-text {
         width: 18rem;
         color: #f2f2f2;
-        font-size: 1.2rem;
+        font-size: 1rem;
         font-weight: bold;
         position: absolute;
         top: 4rem;
@@ -183,6 +238,7 @@
         right: 0;
         margin: 0 auto;
         text-align: center;
+        letter-spacing: .3rem;
     }
     .item-image {
         width: 18rem;
@@ -197,9 +253,20 @@
         margin: auto;
         background-image: url('../images/cheyidai3.jpg');
     }
+    .image1{
+        position: absolute;
+        top: 8rem;
+        left: 10%;
+        width: 80%;
+        height: auto;
+        border: 3px solid #fff;
+        box-sizing: border-box;
+    }
     .text1{
         top: 3rem;
-        font-size: 1.6rem;
+        font-size: 1.7rem;
+        color: #55bfc4;
+        letter-spacing: .5rem;
     }
     .text2{
         top: 22rem;

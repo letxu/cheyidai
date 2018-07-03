@@ -1,6 +1,6 @@
 .slide-1 {
     // background-color: #e88a63;
-    background-image: url('../images/bg1.jpg');
+    background-image: url('../images/bg.png');
     background-size: 100% auto;
     background-repeat: no-repeat;
     .item-image {
@@ -20,6 +20,16 @@
         top: 1.5rem;
         height: 10rem;
         background-image: url('../images/logo1.png');
+        border: 1px solid #fff;
+    }
+    .image1{
+        position: absolute;
+        top: 15rem;
+        left: 10%;
+        width: 80%;
+        height: auto;
+        border: 3px solid #fff;
+        box-sizing: border-box;
     }
     .item-text {
         width: 18rem;
@@ -32,5 +42,17 @@
         right: 0;
         margin: 0 auto;
         text-align: center;
+    }
+    .text1{
+        top: 4rem;
+        font-size: 2.5rem;
+        letter-spacing: 0.3rem;
+        -webkit-mask: -webkit-gradient(linear,0% 0%,0% 100%,from(rgba(255,255,255, 0.9)),to(rgba(199,199,199, 0.5)));
+    }
+    .text2{
+        top: 9rem;
+        font-size: 1rem;
+        color: #55bfc4;
+        letter-spacing: 0.3rem;
     }
 }
